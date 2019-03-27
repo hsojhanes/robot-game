@@ -1,5 +1,5 @@
-# robot-game
+# star-game
 
-https://hsojhanes.github.io/robot-game/
+https://hsojhanes.github.io/star-game/
 
-<iframe src="https://trinket.io/embed/pygame/43aad3a3d2?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/pygame/f6a6cc6fee?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
